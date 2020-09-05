@@ -1,4 +1,4 @@
-# Diplomado de IA y AP
+# Diplomado de IA y AP Septiembre 2020
 Este es un repositorio creado para el diplomado en Inteligencia Artificial y Aprendizaje Profundo
 
 # Introducción
